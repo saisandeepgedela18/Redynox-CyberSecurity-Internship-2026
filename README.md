@@ -222,7 +222,82 @@ Traffic Investigation
 
 # 📸 Project Screenshots
 
-The screenshots demonstrating the practical implementation are available in the **Screenshots** folder.
+## 🖥️ Windows Version
+
+<p align="center">
+<img src="Screenshots/windows-version.png" width="900">
+</p>
+---
+
+## 💻 System Information
+
+<p align="center">
+<img src="Screenshots/system-information.png" width="900">
+</p>
+---
+
+## 🦈 Wireshark Installation
+
+<p align="center">
+<img src="Screenshots/wireshark-home.png" width="900">
+</p>
+---
+
+## 🌐 DNS Packet Analysis
+
+<p align="center">
+<img src="Screenshots/dns-analysis.png" width="900">
+</p>
+
+---
+
+## 🔒 TLS Packet Analysis
+
+<p align="center">
+<img src="Screenshots/tls-analysis.png" width="900">
+</p>
+
+---
+
+## 🛡️ Windows Defender Firewall
+
+<p align="center">
+<img src="Screenshots/windows-firewall.png" width="900">
+</p>
+
+---
+
+## 🔴 OWASP ZAP Dashboard
+
+<p align="center">
+<img src="Screenshots/owasp-zap-home.png" width="900">
+</p>
+
+---
+
+## 🐐 WebGoat Login
+
+<p align="center">
+<img src="Screenshots/webgoat-login.png" width="900">
+</p>
+
+---
+
+## 🏠 WebGoat Dashboard
+
+<p align="center">
+<img src="Screenshots/webgoat-dashboard.png" width="900">
+</p>
+
+---
+
+## 🔍 ZAP Manual Explore
+
+<p align="center">
+<img src="Screenshots/zap-manual-explore.png" width="900">
+</p>
+
+---
 
 ---
 
