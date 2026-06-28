@@ -1,156 +1,286 @@
-# 🔐 Redynox Cyber Security Internship 2026
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Redynox%20Cyber%20Security%20Internship&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Wireshark%20%7C%20Windows%20Firewall%20%7C%20OWASP%20ZAP%20%7C%20WebGoat&descAlignY=60"/>
+</p>
+
+<h1 align="center">🔐 Redynox Cyber Security Internship 2026</h1>
+
+<p align="center">
+Hands-on Cyber Security Internship focusing on <b>Network Security</b>, <b>Traffic Analysis</b>, and <b>Web Application Security Testing</b>.
+</p>
 
 <p align="center">
 
-![Cyber Security](https://img.shields.io/badge/Cyber-Security-blue?style=for-the-badge)
-
-![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-blue?style=for-the-badge)
-
-![OWASP ZAP](https://img.shields.io/badge/OWASP-ZAP-red?style=for-the-badge)
-
-![WebGoat](https://img.shields.io/badge/WebGoat-Practice-green?style=for-the-badge)
-
-![Windows](https://img.shields.io/badge/Windows-11-blue?style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows)
+![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=for-the-badge&logo=wireshark)
+![OWASP](https://img.shields.io/badge/OWASP-ZAP-red?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=openjdk)
+![Cyber Security](https://img.shields.io/badge/Cyber-Security-success?style=for-the-badge)
 
 </p>
 
 ---
 
-# 📖 Overview
+# 👨‍💻 Author
 
-This repository documents my practical work completed during the **Redynox Cyber Security Internship**.
+**Sai Sandeep Gedela**
 
-The internship focused on practical cybersecurity skills including:
+🎓 B.Tech – Computer Science & Engineering
 
-- Network Security
+🔐 Cyber Security Enthusiast
+
+☁️ Cloud Computing
+
+🤖 Artificial Intelligence
+
+---
+
+# 📖 About This Repository
+
+This repository contains all the practical work completed during the **Redynox Cyber Security Internship**.
+
+The internship provided hands-on experience with:
+
+- Network Traffic Monitoring
 - Packet Analysis
 - DNS Investigation
-- TLS Analysis
-- Firewall Configuration
-- Web Application Security
-- OWASP ZAP
-- WebGoat
+- TLS Inspection
+- Windows Firewall Configuration
+- Web Application Security Testing
+- Vulnerability Assessment
+- OWASP Security Concepts
 
 ---
 
-# 🎯 Objectives
+# 🎯 Internship Objectives
 
-- Understand network communication
-- Capture packets using Wireshark
+- Understand Network Security
+- Learn Packet Capture
+- Study DNS Resolution
+- Analyze TLS Encryption
 - Configure Windows Firewall
-- Analyze DNS and TLS traffic
 - Perform Web Application Security Testing
-- Learn OWASP security concepts
+- Learn Secure Development Practices
 
 ---
 
-# 🛠️ Technologies & Tools
+# 📊 Internship Progress
+
+| Task | Status |
+|------|--------|
+| Windows Firewall Configuration | ✅ Completed |
+| Wireshark Installation | ✅ Completed |
+| DNS Packet Analysis | ✅ Completed |
+| TLS Packet Analysis | ✅ Completed |
+| OWASP ZAP Installation | ✅ Completed |
+| WebGoat Installation | ✅ Completed |
+| Web Application Security Testing | ✅ Completed |
+| Final Internship Report | ✅ Completed |
+
+---
+
+# 🛠️ Tools Used
 
 | Tool | Purpose |
 |------|---------|
-| Wireshark | Network Packet Analysis |
-| Windows Defender Firewall | Firewall Configuration |
+| Wireshark | Packet Capture & Analysis |
+| Windows Defender Firewall | Host Firewall |
 | OWASP ZAP | Web Security Testing |
-| WebGoat | Security Practice |
-| Microsoft Edge | Browser |
+| WebGoat | Vulnerable Web Application |
+| Microsoft Edge | Browser Testing |
 | Windows 11 | Operating System |
+| Java Runtime | WebGoat Execution |
 
 ---
 
-# 💻 Hardware
+# 💻 System Specifications
 
-| Component | Specification |
-|-----------|--------------|
+| Component | Details |
+|-----------|---------|
 | Processor | AMD Ryzen 5 5600H |
 | RAM | 16 GB |
 | GPU | NVIDIA RTX 3050 Laptop GPU |
-| OS | Windows 11 |
+| Operating System | Windows 11 Home Single Language |
+| Browser | Microsoft Edge |
 
 ---
 
 # 📂 Repository Structure
 
 ```text
-Report/
-Screenshots/
-Documentation/
-Assets/
-README.md
-LICENSE
+Redynox-CyberSecurity-Internship-2026
+│
+├── 📁 Report
+│   └── Redynox Cybersecurity Internship FINAL Report.pdf
+│
+├── 📁 Screenshots
+│   ├── Screenshot (1).png
+│   ├── Screenshot (2).png
+│   ├── Screenshot (3).png
+│   ├── Screenshot (4).png
+│   ├── Screenshot (5).png
+│   ├── Screenshot (6).png
+│   ├── Screenshot (7).png
+│   ├── Screenshot (8).png
+│   ├── Screenshot (9).png
+│   └── Screenshot (10).png
+│
+├── 📁 Documentation
+│
+├── 📁 Assets
+│
+├── 📄 README.md
+│
+└── 📄 LICENSE
 ```
 
 ---
 
-# ✅ Internship Tasks
+# 🔬 Practical Activities
 
-## Task 1
+## Task 1 – Network Security
 
-✔ Windows Defender Firewall
+✔ Windows Defender Firewall Verification
 
 ✔ Wireshark Installation
 
-✔ DNS Analysis
+✔ Network Interface Selection
 
-✔ TLS Analysis
+✔ DNS Packet Capture
+
+✔ TLS Traffic Analysis
+
+✔ Packet Inspection
 
 ---
 
-## Task 2
+## Task 2 – Web Application Security
 
 ✔ OWASP ZAP Installation
 
-✔ WebGoat Setup
+✔ WebGoat Installation
+
+✔ Proxy Configuration
 
 ✔ Manual Explore
 
 ✔ Request Interception
 
-✔ Web Security Analysis
+✔ Response Analysis
+
+✔ Web Security Testing
+
+---
+
+# 🛡️ Cyber Security Workflow
+
+```text
+                 Internet
+                     │
+                     ▼
+          Windows Defender Firewall
+                     │
+                     ▼
+               Microsoft Edge
+                     │
+                     ▼
+              OWASP ZAP Proxy
+                     │
+                     ▼
+                 WebGoat
+                     │
+                     ▼
+         HTTP Request / Response
+                     │
+                     ▼
+              Security Analysis
+```
+
+---
+
+# 📡 Network Packet Analysis Workflow
+
+```text
+Network Traffic
+       │
+       ▼
+Wi-Fi Adapter
+       │
+       ▼
+Wireshark Capture
+       │
+       ▼
+DNS Analysis
+       │
+       ▼
+TLS Inspection
+       │
+       ▼
+Traffic Investigation
+```
 
 ---
 
 # 📸 Project Screenshots
 
-The screenshots are available in the **Screenshots** folder.
+The screenshots demonstrating the practical implementation are available in the **Screenshots** folder.
 
 ---
 
 # 📄 Internship Report
 
-The complete internship report is available in the **Report** folder.
+The detailed internship report is available inside the **Report** folder.
 
 ---
 
-# 🎓 Skills Gained
+# 🎓 Skills Acquired
 
 - Network Monitoring
 - Packet Analysis
-- DNS Resolution
-- TLS Encryption
-- Firewall Management
-- Web Application Security
+- DNS Investigation
+- TLS Analysis
+- Firewall Configuration
+- Web Security Testing
 - Proxy Configuration
-- Security Assessment
+- Vulnerability Assessment
+- Cyber Security Fundamentals
 
 ---
 
-# 🚀 Future Learning
+# 🚀 Future Learning Roadmap
 
 - Burp Suite
 - Nmap
 - Metasploit
 - Kali Linux
-- SIEM
+- Linux Security
+- SIEM Platforms
 - Threat Hunting
+- Digital Forensics
+- Cloud Security
+
+---
+
+# 📚 References
+
+- OWASP ZAP Documentation
+- OWASP WebGoat Documentation
+- Wireshark Official Documentation
+- Microsoft Windows Security Documentation
 
 ---
 
 # 📜 License
 
-MIT License
+This repository is shared for educational and portfolio purposes.
+
+Licensed under the **MIT License**.
 
 ---
 
-## ⭐ Thank you for visiting!
+<p align="center">
 
-If you found this repository useful, consider giving it a ⭐.
+> "Cybersecurity is not a destination. It is a continuous journey of learning, monitoring, and improving."
+
+⭐ **If you found this repository useful, consider giving it a star.**
+
+</p>
