@@ -1,47 +1,58 @@
 # 🔐 Redynox Cyber Security Internship 2026
 
-> Practical Cybersecurity Internship focusing on Network Security, Traffic Analysis and Web Application Security.
+<p align="center">
+
+![Cyber Security](https://img.shields.io/badge/Cyber-Security-blue?style=for-the-badge)
+
+![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-blue?style=for-the-badge)
+
+![OWASP ZAP](https://img.shields.io/badge/OWASP-ZAP-red?style=for-the-badge)
+
+![WebGoat](https://img.shields.io/badge/WebGoat-Practice-green?style=for-the-badge)
+
+![Windows](https://img.shields.io/badge/Windows-11-blue?style=for-the-badge)
+
+</p>
 
 ---
 
-# 👨‍💻 Author
+# 📖 Overview
 
-**Sai Sandeep Gedela**
+This repository documents my practical work completed during the **Redynox Cyber Security Internship**.
 
-🎓 B.Tech Computer Science & Engineering
+The internship focused on practical cybersecurity skills including:
 
-💙 Cyber Security | AI | Cloud Computing
-
----
-
-# 📖 Internship Overview
-
-This repository contains the practical work completed during my Cyber Security Internship at **Redynox**.
-
-The internship focused on hands-on learning using industry-standard security tools to understand network traffic analysis, firewall configuration, and web application security testing.
+- Network Security
+- Packet Analysis
+- DNS Investigation
+- TLS Analysis
+- Firewall Configuration
+- Web Application Security
+- OWASP ZAP
+- WebGoat
 
 ---
 
 # 🎯 Objectives
 
-- Learn Network Security
-- Analyze Network Packets
-- Study DNS and TLS Communication
+- Understand network communication
+- Capture packets using Wireshark
 - Configure Windows Firewall
-- Perform Web Security Testing
-- Understand Secure Application Architecture
+- Analyze DNS and TLS traffic
+- Perform Web Application Security Testing
+- Learn OWASP security concepts
 
 ---
 
-# 🛠 Tools Used
+# 🛠️ Technologies & Tools
 
 | Tool | Purpose |
-|------|----------|
-| Wireshark | Packet Analysis |
-| Windows Defender Firewall | Host Firewall |
+|------|---------|
+| Wireshark | Network Packet Analysis |
+| Windows Defender Firewall | Firewall Configuration |
 | OWASP ZAP | Web Security Testing |
-| WebGoat | Vulnerable Web Application |
-| Microsoft Edge | Browser Testing |
+| WebGoat | Security Practice |
+| Microsoft Edge | Browser |
 | Windows 11 | Operating System |
 
 ---
@@ -49,46 +60,46 @@ The internship focused on hands-on learning using industry-standard security too
 # 💻 Hardware
 
 | Component | Specification |
-|-----------|---------------|
+|-----------|--------------|
 | Processor | AMD Ryzen 5 5600H |
 | RAM | 16 GB |
 | GPU | NVIDIA RTX 3050 Laptop GPU |
-| Operating System | Windows 11 Home Single Language |
+| OS | Windows 11 |
 
 ---
 
 # 📂 Repository Structure
 
 ```text
-Redynox-CyberSecurity-Internship-2026
-
-├── Report
-│   └── Internship Report.pdf
-
-├── Screenshots
-
-├── Documentation
-
-├── Assets
-
-└── README.md
+Report/
+Screenshots/
+Documentation/
+Assets/
+README.md
+LICENSE
 ```
 
 ---
 
-# ✅ Tasks Completed
+# ✅ Internship Tasks
 
-✔ Windows Firewall Configuration
+## Task 1
+
+✔ Windows Defender Firewall
 
 ✔ Wireshark Installation
 
-✔ DNS Packet Analysis
+✔ DNS Analysis
 
-✔ TLS Packet Analysis
+✔ TLS Analysis
+
+---
+
+## Task 2
 
 ✔ OWASP ZAP Installation
 
-✔ WebGoat Installation
+✔ WebGoat Setup
 
 ✔ Manual Explore
 
@@ -98,48 +109,38 @@ Redynox-CyberSecurity-Internship-2026
 
 ---
 
-# 📸 Screenshots
+# 📸 Project Screenshots
 
-Screenshots are available inside the **Screenshots** folder.
+The screenshots are available in the **Screenshots** folder.
 
 ---
 
 # 📄 Internship Report
 
-The complete internship report is available inside the **Report** folder.
+The complete internship report is available in the **Report** folder.
 
 ---
 
-# 🎓 Learning Outcomes
+# 🎓 Skills Gained
 
-- Network Packet Analysis
-
+- Network Monitoring
+- Packet Analysis
 - DNS Resolution
-
 - TLS Encryption
-
-- Firewall Configuration
-
-- Web Security Testing
-
+- Firewall Management
+- Web Application Security
 - Proxy Configuration
-
-- Secure Development Practices
+- Security Assessment
 
 ---
 
-# 🚀 Future Scope
+# 🚀 Future Learning
 
 - Burp Suite
-
 - Nmap
-
 - Metasploit
-
-- Linux Security
-
+- Kali Linux
 - SIEM
-
 - Threat Hunting
 
 ---
@@ -150,4 +151,6 @@ MIT License
 
 ---
 
-⭐ If you found this repository useful, feel free to star it.
+## ⭐ Thank you for visiting!
+
+If you found this repository useful, consider giving it a ⭐.
